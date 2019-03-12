@@ -21,7 +21,7 @@ class B extends A
         }
     }
     
-public class Multipleinh
+public class Multilevelinh
 {
     public static void main(String[] args) 
     {
